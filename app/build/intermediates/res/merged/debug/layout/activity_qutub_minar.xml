@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/qutubminar"
+            android:background="@color/primary_dark_color"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:background="#F5F5F5"
+            android:padding="10dp"
+            android:text="The Qutub Minar is located in Qutb complex, Mehrauli in South Delhi. It was built by Qutub-ud-din Aibak of the Slave Dynasty, who took possession of Delhi in 1206. It is a fluted red sandstone tower, which tapers up to a height of 72.5 meters and is covered with intricate carvings and verses from the Qur'an. The Qutub Minar is also significant for what it represents in the history of Indian culture. In many ways, the Qutub Minar, the first monument built by a Muslim ruler in India, heralded the beginning of a new style of art and architecture that came to be known as the Indo-Islamic style"
+            />
+    </LinearLayout>
+</ScrollView>

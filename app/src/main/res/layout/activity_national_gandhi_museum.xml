@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/gandhimuseum"
+            android:background="@color/primary_dark_color"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:background="#F5F5F5"
+            android:padding="10dp"
+            android:text="The National Gandhi Museum or Gandhi Memorial Museum is a museum located in New Delhi, India showcasing the life and principles of Mahatma Gandhi. The museum first opened in Mumbai, shortly after Gandhi was assassinated in 1948. The museum relocated several times before moving to Rajghat, New Delhi in 1961."
+            />
+    </LinearLayout>
+</ScrollView>

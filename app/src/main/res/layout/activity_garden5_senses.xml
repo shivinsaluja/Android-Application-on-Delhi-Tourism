@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/mainscreen5"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:background="@color/primary_dark_color"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:padding="10dp"
+            android:text="The Garden of Five Senses is a park spread over 20 acres, in Saidul Ajaib village, opposite Saket, near the Mehrauli heritage area in Delhi, India. Designed by Delhi architect, Pradeep Sachdeva, the park was developed by Delhi Tourism and Transportation Development Corporation, Delhi at a cost of Rs 10.5 crore (105,000,000 rupees), over a period of three years and opened in February 2003. Partly built over a rocky terrain, the garden has various theme areas, including a section on the lines of Mughal Gardens, plus pools of water lilies, bamboo courts, herb gardens and solar energy park"/>
+    </LinearLayout>
+</ScrollView>

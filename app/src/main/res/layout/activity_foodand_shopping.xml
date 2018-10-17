@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.delhitourism.MonumentsActivity">
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="#0D47A1"
+        android:layout_width="match_parent"
+        android:text="Khan Market"
+        android:layout_height="130dp"
+        android:onClick="khanmarket"
+
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="#0D47A1"
+        android:layout_width="match_parent"
+        android:text="Dilli Haat"
+        android:layout_weight="1"
+        android:layout_height="130dp"
+        android:onClick="dillihaat"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="#0D47A1"
+        android:layout_width="match_parent"
+        android:text="Chandni Chowk"
+        android:layout_height="130dp"
+        android:layout_weight="1"
+        android:onClick="chandnichowk"
+
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+
+        style="@style/CategoryStyle"
+        android:background="#0D47A1"
+        android:layout_width="match_parent"
+        android:text="Connaught Place"
+        android:layout_height="130dp"
+        android:layout_weight="1"
+        android:onClick="cp" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+
+        style="@style/CategoryStyle"
+        android:background="#0D47A1"
+        android:layout_width="match_parent"
+        android:text="Janpath Market"
+        android:layout_height="130dp"
+        android:layout_weight="1"
+        android:onClick="janpath" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+
+        style="@style/CategoryStyle"
+        android:background="#0D47A1"
+        android:layout_width="match_parent"
+        android:text="India Habitat Centre"
+        android:layout_height="130dp"
+        android:layout_weight="1"
+        android:onClick="ihc" />
+
+
+</LinearLayout>
+</ScrollView>

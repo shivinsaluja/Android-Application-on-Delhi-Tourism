@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/janpath"
+            android:background="@color/primary_dark_color"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:padding="10dp"
+            android:text="Janpath, translated People's Path, is one of the main roads in New Delhi. It starts out as Radial Road 1 in Connaught Place, adjacent to Palika Bazaar, and runs North-South perpendicular to, and past Rajpath . Originally called Queens Way, it was an important part of Lutyens design, of the Lutyens Delhi, upon the inauguration of new capital of India in 1931. Janpath Market is one of the most famous markets for tourists (both Indian and foreign) in New Delhi. The market essentially is a long line of boutique stores selling products which are hard to find in the malls and multi-chain stores of the city."/>
+    </LinearLayout>
+</ScrollView>

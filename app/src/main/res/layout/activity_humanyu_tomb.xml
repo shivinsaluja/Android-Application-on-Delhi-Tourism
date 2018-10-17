@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/humayuntomb"
+            android:background="@color/primary_dark_color"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:background="#F5F5F5"
+            android:padding="10dp"
+            android:text="Humayun's tomb is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayun's first wife and chief consort, Empress Bega Begum (also known as Haji Begum)in 1569-70, and designed by Mirak Mirza Ghiyas, a Persian architect chosen by her.It was the first garden-tomb on the Indian subcontinent,and is located in Nizamuddin East, Delhi, India, close to the Dina-panah Citadel, also known as Purana Qila (Old Fort), that Humayun founded in 1533. It was also the first structure to use red sandstone at such a scale.The tomb was declared a UNESCO World Heritage Site in 1993,and since then has undergone extensive restoration work, which is complete"
+            />
+    </LinearLayout>
+</ScrollView>

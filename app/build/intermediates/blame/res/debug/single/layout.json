@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qutub_minar.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_qutub_minar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_deer_park.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_deer_park.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_humanyu_tomb.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_humanyu_tomb.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gardens_and_parks.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_gardens_and_parks.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_screen_icons.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_main_screen_icons.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_main.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_list_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bangla_sahib.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_bangla_sahib.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_purana_q.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_purana_q.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_india_gate.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_india_gate.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mus.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_mus.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cp.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_cp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_habitat_center.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_habitat_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_talkatora.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_talkatora.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mughal_gardens.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_mughal_gardens.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lodhi_gardens.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_lodhi_gardens.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dilli_haat.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_dilli_haat.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jama_masjid.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_jama_masjid.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_national_gandhi_museum.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_national_gandhi_museum.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_foodand_shopping.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_foodand_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_garden5_senses.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_garden5_senses.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rail_museum.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_rail_museum.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modern_art_gallery.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_modern_art_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_places_of_worship.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_places_of_worship.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_national_science_center.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_national_science_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lotus_temple.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_lotus_temple.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doll_museum.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_doll_museum.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_monuments.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_monuments.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_khan_market.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_khan_market.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_akshardham.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_akshardham.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buttonshape.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\buttonshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_red_fort.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_red_fort.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chandni_chowk.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_chandni_chowk.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_janpath_market.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_janpath_market.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_church.xml",
+        "source": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\src\\main\\res\\layout\\activity_church.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9590cf19a7125052657789fe8fc4d9a016924ec4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SHIVIN SALUJA\\Desktop\\DelhiTourism\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Android\\.android\\build-cache\\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    }
+]

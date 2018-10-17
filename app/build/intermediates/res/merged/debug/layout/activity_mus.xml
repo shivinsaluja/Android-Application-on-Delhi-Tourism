@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.delhitourism.MonumentsActivity">
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_colors"
+        android:layout_width="match_parent"
+        android:text="National Gandhi Museum"
+        android:layout_height="130dp"
+        android:layout_weight="1"
+        android:onClick="gandhimuseum"
+
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_colors"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:text="National Rail Museum"
+        android:onClick="railmuseum"
+        android:layout_weight="1"
+
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_colors"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:text="Doll Museum"
+        android:layout_weight="1"
+        android:onClick="dollmuseum"
+
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_colors"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:text="National Science Center"
+        android:layout_weight="1"
+        android:onClick="sciencecenter"
+
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_colors"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:text="National Gallery Of Modern Art"
+        android:layout_weight="1"
+        android:onClick="modernart"
+
+        />
+
+
+</LinearLayout>
+</ScrollView>

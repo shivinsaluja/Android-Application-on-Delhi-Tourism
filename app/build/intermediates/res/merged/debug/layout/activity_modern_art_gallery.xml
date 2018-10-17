@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/nationalgalleryofmodernart"
+            android:background="@color/primary_dark_color"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:padding="10dp"
+            android:text="Established in the year 1954, this is the best place to explore Indian contemporary art. The royal building of the museum was formerly the residence of erstwhile Maharajas of Jaipur. It houses a splendid collection of paintings, some of which are as old as 150 years! The painting treasure housed here includes the 19th and early-20th century paintings of British artists, Thomas Daniell, and his nephew, William."
+            />
+    </LinearLayout>
+</ScrollView>

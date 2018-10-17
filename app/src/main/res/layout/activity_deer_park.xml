@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/deerpark"
+            android:background="@color/primary_dark_color"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:padding="10dp"
+            android:text="Deer Park is located in South Delhi also known as A.N. Jha Deer Park, named after famous Social worker Aditya Nath Jha. This place is popular for walking, jogging and weekend outings. The Deer Park comprises many subsection such as Duck Park, Picnic Spots,Rabbit Enclosures etc. The Park has historical tombs of Mughal Era. The park is accessible from Safdarjung Enclave and Green Park, Hauz Khas Village. It is also connected to District Park thus making is approachable from R K Puram near the courts side of the Delhi Lawn Tennis Association. "/>
+    </LinearLayout>
+</ScrollView>

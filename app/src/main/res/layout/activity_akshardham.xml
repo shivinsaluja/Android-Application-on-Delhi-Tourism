@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/akshardham"
+            android:background="@color/primary_dark_color"
+            android:scaleType="centerCrop"
+            android:id="@+id/akshardhamimage"
+            android:adjustViewBounds="true"
+            />
+        <TextView
+            android:layout_below="@+id/akshardhamimage"
+            android:id="@+id/akshardhamtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:background="#FFFFFF"
+            android:textSize="21dp"
+            android:padding="10dp"
+            android:text="Akshardham or Swaminarayan Akshardham complex is a Hindu mandir, and a spiritual-cultural campus in New Delhi, India. Also referred to as Akshardham Temple or Swaminarayan Akshardham, the complex displays millennia of traditional Hindu and Indian culture, spirituality, and architecture.The temple, which attracts approximately 70 percent of all tourists who visit Delhi, was officially opened on 6 November 2005 by Dr. A.P.J. Abdul Kalam It sits near the banks of the Yamuna adjacent to the 2010 Commonwealth Games village in eastern New Delhi. The temple, at the centre of the complex, was built according to the Vastu shastra and Pancharatra shastra."/>
+    </RelativeLayout>
+
+</ScrollView>

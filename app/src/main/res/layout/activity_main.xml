@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.MainActivity"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/tan_background"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/category_numbers">
+            <TextView
+                android:id="@+id/numbers"
+                style="@style/CategoryStyle"
+                android:background="@color/category_numbers"
+                android:text="Monuments"
+                android:layout_height="100dp"
+                android:onClick="monuments"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:background="#212121"
+                android:layout_below="@+id/numbers"
+                android:src="@drawable/redfort"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"/>
+
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:background="#212121"
+                android:layout_below="@+id/family"
+                android:src="@drawable/jamamasjid"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"/>
+            <TextView
+                android:id="@+id/family"
+                style="@style/CategoryStyle"
+                android:background="@color/category_family"
+                android:text="Places Of Worship"
+                android:layout_height="100dp"
+                android:onClick="placesofworship"/>
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:background="#212121"
+                android:layout_below="@+id/colors"
+                android:src="@drawable/nationalgalleryofmodernart"/>
+            <TextView
+                android:id="@+id/colors"
+                style="@style/CategoryStyle"
+                android:background="@color/category_colors"
+                android:layout_height="100dp"
+                android:text="Museums"
+                android:onClick="museums"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:background="#212121"
+                android:layout_below="@+id/phrases"
+                android:src="@drawable/mughalgarden"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"/>
+            <TextView
+                android:id="@+id/phrases"
+                style="@style/CategoryStyle"
+                android:background="@color/category_phrases"
+                android:layout_height="100dp"
+                android:text="Gardens And Parks"
+                android:onClick="gardensandparks"/>
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:background="#212121"
+                android:layout_below="@+id/foodandshopping"
+                android:src="@drawable/khanmarket"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"/>
+            <TextView
+                android:id="@+id/foodandshopping"
+                style="@style/CategoryStyle"
+                android:background="#0D47A1"
+                android:layout_height="100dp"
+                android:text="Shopping And food"
+                android:onClick="shoppingandfood"/>
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>

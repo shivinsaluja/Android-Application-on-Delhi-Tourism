@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/railmuseum"
+            android:background="@color/primary_dark_color"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:background="#F5F5F5"
+            android:padding="10dp"
+            android:text="The National Rail Museum is a museum in Chanakyapuri, New Delhi which focuses on the rail heritage of India it opened on the 1 February 1977. It is located in over 10 acres (40,000 m2) of land with both indoor and outdoor exhibits. A toy train offers rides around that site on regular days. Museum remains open from 10.00 am to 5.00 pm (Last entry 4.30 pm) Tuesday to Sunday. Museum remains closed on every Monday and National Holidays. The Indoor Gallery is now fully renovated and opened to the public."
+            />
+    </LinearLayout>
+</ScrollView>

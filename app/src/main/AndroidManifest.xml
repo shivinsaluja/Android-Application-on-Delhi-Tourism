@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.delhitourism">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MonumentsActivity"
+            android:label="Monuments" />
+        <activity
+            android:name=".PlacesOfWorshipActivity"
+            android:label="Places Of Worship" />
+        <activity
+            android:name=".GardensAndParksActivity"
+            android:label="Gardens And Parks" />
+        <activity
+            android:name=".MusActivity"
+            android:label="Museums" />
+        <activity
+            android:name=".IndiaGateActivity"
+            android:label="India Gate" />
+        <activity
+            android:name=".QutubMinarActivity"
+            android:label="Qutub Minar" />
+        <activity
+            android:name=".PuranaQActivity"
+            android:label="Purana Quila" />
+        <activity
+            android:name=".HumanyuTombActivity"
+            android:label="Humayun's Tomb" />
+        <activity
+            android:name=".RedFortActivity"
+            android:label="Red Fort" />
+        <activity
+            android:name=".NationalGandhiMuseumActivity"
+            android:label="National Gandhi Museum" />
+        <activity
+            android:name=".NationalScienceCenterActivity"
+            android:label="National Science Center" />
+        <activity
+            android:name=".DollMuseumActivity"
+            android:label="Doll Museum" />
+        <activity
+            android:name=".RailMuseumActivity"
+            android:label="Rail Museum" />
+        <activity
+            android:name=".ModernArtGallery"
+            android:label="Modern Art Gallery" />
+        <activity
+            android:name=".AkshardhamActivity"
+            android:label="Akshardham Temple" />
+        <activity
+            android:name=".LotusTempleActivity"
+            android:label="Lotus Temple" />
+        <activity
+            android:name=".JamaMasjidActivity"
+            android:label="Jama Masjid" />
+        <activity
+            android:name=".BanglaSahibActivity"
+            android:label="Bangla Sahib" />
+        <activity
+            android:name=".ChurchActivity"
+            android:label="St.James Church" />
+        <activity
+            android:name=".LodhiGardensActivity"
+            android:label="Lodhi gardens" />
+        <activity
+            android:name=".MughalGardensActivity"
+            android:label="Mughal Gardens" />
+        <activity
+            android:name=".DeerParkActivity"
+            android:label="Deer Park" />
+        <activity
+            android:name=".Garden5SensesActivity"
+            android:label="Garden of Five Senses" />
+        <activity
+            android:name=".TalkatoraActivity"
+            android:label="Talkatora Garden" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".FoodandShoppingActivity"
+            android:label="Shopping And Food"/>
+        <activity android:name=".KhanMarketActivity"
+            android:label="Khan Market"
+            />
+        <activity android:name=".CpActivity"
+            android:label="Connaught Place"/>
+        <activity android:name=".DilliHaatActivity"
+            android:label="Dilli Haat"/>
+        <activity android:name=".ChandniChowkActivity"
+            android:label="Chandni Chowk"/>
+        <activity android:name=".JanpathMarketActivity"
+            android:label="Janpath Market"/>
+        <activity android:name=".HabitatCenterActivity"
+            android:label="India Habitat Centre">
+
+        </activity>
+    </application>
+
+</manifest>

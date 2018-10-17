@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/jameschurch"
+            android:background="@color/primary_dark_color"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:padding="10dp"
+            android:text="St. James'(also known as Skinner's Church) is an Anglican church in Delhi, India, built in 1836 by Colonel James Skinner. It is one of the oldest churches in the city,and part of the Church of North India Diocese of Delhi. It is situated near Kashmiri Gate, at the intersection of Church Road and Lothian Road. It was the church the Viceroy of India, attended until the Cathedral Church of the Redemption, near Gurudwara Rakab Ganj, was built in 1931."/>
+    </LinearLayout>
+</ScrollView>

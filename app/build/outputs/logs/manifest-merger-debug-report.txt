@@ -1,0 +1,321 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:2:1-111:12
+	package
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:5:5-109:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\bd8c5566a4cd008b62f9ff35902ec9ff6eadfa5b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\9590cf19a7125052657789fe8fc4d9a016924ec4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\061634fe2e890e748609b8e4dfcddd5784d31bbb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\d681e99ed021ecb4300f7e1e5e55c171de2d5e96\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Android\.android\build-cache\582dc1938a3168b52a2706c51a8f90e607496516\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Android\.android\build-cache\f4bb5d9b9f8f237478ad71e6fc109d6121477bee\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Android\.android\build-cache\a323ae4a3e631c80575d127f42ee28f8e66490ca\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Android\.android\build-cache\abad01742a647e2efa14d43710f196a1273772f6\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Android\.android\build-cache\bf91e1ddfbb50d052c187f361abbabc754c13698\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\fcad5d613e1c6ab4ecd0f8469708d817431626a1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\792808afa2831c72fa4da2a8d1825c52ab33e32e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\44457774c8da6299c5fd0bfe2c34228a218ac847\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\dc5d5b17f48276da2f542e0f90fb845382467ef1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\f76712da4ec9e70a8f23dc01c133d9088f7d864c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\88a5bc48d58ee3c442442f178f013e7c8aebe73c\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.delhitourism.MainActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.android.delhitourism.MonumentsActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:19:9-21:41
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:21:13-38
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:20:13-46
+activity#com.example.android.delhitourism.PlacesOfWorshipActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:22:9-24:49
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:24:13-46
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:23:13-52
+activity#com.example.android.delhitourism.GardensAndParksActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:25:9-27:49
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:27:13-46
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:26:13-52
+activity#com.example.android.delhitourism.MusActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:28:9-30:39
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:29:13-40
+activity#com.example.android.delhitourism.IndiaGateActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:31:9-33:42
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:33:13-39
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:32:13-46
+activity#com.example.android.delhitourism.QutubMinarActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:34:9-36:43
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:36:13-40
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:35:13-47
+activity#com.example.android.delhitourism.PuranaQActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:37:9-39:44
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:39:13-41
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:38:13-44
+activity#com.example.android.delhitourism.HumanyuTombActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:40:9-42:46
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:41:13-48
+activity#com.example.android.delhitourism.RedFortActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:43:9-45:40
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:44:13-44
+activity#com.example.android.delhitourism.NationalGandhiMuseumActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:46:9-48:54
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:48:13-51
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:47:13-57
+activity#com.example.android.delhitourism.NationalScienceCenterActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:49:9-51:55
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:51:13-52
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:50:13-58
+activity#com.example.android.delhitourism.DollMuseumActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:52:9-54:43
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:54:13-40
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:53:13-47
+activity#com.example.android.delhitourism.RailMuseumActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:55:9-57:43
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:57:13-40
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:56:13-47
+activity#com.example.android.delhitourism.ModernArtGallery
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:58:9-60:50
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:60:13-47
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:59:13-45
+activity#com.example.android.delhitourism.AkshardhamActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:61:9-63:49
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:63:13-46
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:62:13-47
+activity#com.example.android.delhitourism.LotusTempleActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:64:9-66:44
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:66:13-41
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:65:13-48
+activity#com.example.android.delhitourism.JamaMasjidActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:67:9-69:43
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:69:13-40
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:68:13-47
+activity#com.example.android.delhitourism.BanglaSahibActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:70:9-72:44
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:72:13-41
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:71:13-48
+activity#com.example.android.delhitourism.ChurchActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:73:9-75:47
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:75:13-44
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:74:13-43
+activity#com.example.android.delhitourism.LodhiGardensActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:76:9-78:45
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:78:13-42
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:77:13-49
+activity#com.example.android.delhitourism.MughalGardensActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:79:9-81:46
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:81:13-43
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:80:13-50
+activity#com.example.android.delhitourism.DeerParkActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:82:9-84:41
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:84:13-38
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:83:13-45
+activity#com.example.android.delhitourism.Garden5SensesActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:85:9-87:53
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:87:13-50
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:86:13-50
+activity#com.example.android.delhitourism.TalkatoraActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:88:9-90:48
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:90:13-45
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:89:13-46
+activity#com.example.android.delhitourism.Main2Activity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:91:9-51
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:91:19-48
+activity#com.example.android.delhitourism.FoodandShoppingActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:92:9-93:48
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:93:13-46
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:92:19-58
+activity#com.example.android.delhitourism.KhanMarketActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:94:9-96:15
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:95:13-40
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:94:19-53
+activity#com.example.android.delhitourism.CpActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:97:9-98:46
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:98:13-44
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:97:19-45
+activity#com.example.android.delhitourism.DilliHaatActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:99:9-100:41
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:100:13-39
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:99:19-52
+activity#com.example.android.delhitourism.ChandniChowkActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:101:9-102:44
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:102:13-42
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:101:19-55
+activity#com.example.android.delhitourism.JanpathMarketActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:103:9-104:45
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:104:13-43
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:103:19-56
+activity#com.example.android.delhitourism.HabitatCenterActivity
+ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:105:9-108:20
+	android:label
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml:105:19-56
+uses-sdk
+INJECTED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Android\.android\build-cache\bd8c5566a4cd008b62f9ff35902ec9ff6eadfa5b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\9590cf19a7125052657789fe8fc4d9a016924ec4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\061634fe2e890e748609b8e4dfcddd5784d31bbb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\d681e99ed021ecb4300f7e1e5e55c171de2d5e96\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Android\.android\build-cache\aac2ebba68ae8541ea864054b47963e57467e560\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Android\.android\build-cache\582dc1938a3168b52a2706c51a8f90e607496516\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Android\.android\build-cache\f4bb5d9b9f8f237478ad71e6fc109d6121477bee\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Android\.android\build-cache\a323ae4a3e631c80575d127f42ee28f8e66490ca\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Android\.android\build-cache\abad01742a647e2efa14d43710f196a1273772f6\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Android\.android\build-cache\bf91e1ddfbb50d052c187f361abbabc754c13698\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\fcad5d613e1c6ab4ecd0f8469708d817431626a1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\792808afa2831c72fa4da2a8d1825c52ab33e32e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\44457774c8da6299c5fd0bfe2c34228a218ac847\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\dc5d5b17f48276da2f542e0f90fb845382467ef1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\f76712da4ec9e70a8f23dc01c133d9088f7d864c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\88a5bc48d58ee3c442442f178f013e7c8aebe73c\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHIVIN SALUJA\Desktop\DelhiTourism\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android\.android\build-cache\9590cf19a7125052657789fe8fc4d9a016924ec4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android\.android\build-cache\061634fe2e890e748609b8e4dfcddd5784d31bbb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android\.android\build-cache\d681e99ed021ecb4300f7e1e5e55c171de2d5e96\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Android\.android\build-cache\aac2ebba68ae8541ea864054b47963e57467e560\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Android\.android\build-cache\582dc1938a3168b52a2706c51a8f90e607496516\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\fcad5d613e1c6ab4ecd0f8469708d817431626a1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\792808afa2831c72fa4da2a8d1825c52ab33e32e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\44457774c8da6299c5fd0bfe2c34228a218ac847\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\dc5d5b17f48276da2f542e0f90fb845382467ef1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\f76712da4ec9e70a8f23dc01c133d9088f7d864c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\88a5bc48d58ee3c442442f178f013e7c8aebe73c\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Android\.android\build-cache\1cd89cdbc22e5e5fdd809ca46fec9a2a3c0a6346\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Android\.android\build-cache\f4bb5d9b9f8f237478ad71e6fc109d6121477bee\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Android\.android\build-cache\f4bb5d9b9f8f237478ad71e6fc109d6121477bee\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Android\.android\build-cache\f4bb5d9b9f8f237478ad71e6fc109d6121477bee\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Android\.android\build-cache\f4bb5d9b9f8f237478ad71e6fc109d6121477bee\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Android\.android\build-cache\f4bb5d9b9f8f237478ad71e6fc109d6121477bee\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Android\.android\build-cache\f4bb5d9b9f8f237478ad71e6fc109d6121477bee\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Android\.android\build-cache\f4bb5d9b9f8f237478ad71e6fc109d6121477bee\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Android\.android\build-cache\a323ae4a3e631c80575d127f42ee28f8e66490ca\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Android\.android\build-cache\a323ae4a3e631c80575d127f42ee28f8e66490ca\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Android\.android\build-cache\a323ae4a3e631c80575d127f42ee28f8e66490ca\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Android\.android\build-cache\a323ae4a3e631c80575d127f42ee28f8e66490ca\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Android\.android\build-cache\bf91e1ddfbb50d052c187f361abbabc754c13698\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Android\.android\build-cache\bf91e1ddfbb50d052c187f361abbabc754c13698\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Android\.android\build-cache\bf91e1ddfbb50d052c187f361abbabc754c13698\output\AndroidManifest.xml:20:20-65

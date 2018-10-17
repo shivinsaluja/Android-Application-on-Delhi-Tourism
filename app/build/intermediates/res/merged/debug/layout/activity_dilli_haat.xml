@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/dillihaat"
+            android:background="@color/primary_dark_color"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:padding="10dp"
+            android:text="Dilli Haat is an open-air food plaza and craft bazaar located in Delhi, run by Delhi Tourism and Transportation Development Corporation (DTTDC). Unlike the traditional weekly market, the village Haat, Dilli Haat is permanent. It is located in the commercial centres of South Delhi, opposite INA market. The 6 acres of land on which this complex is situated was salvaged as part of a reclamation project and transformed into a plaza. A number of shows promoting handicrafts and handlooms are held at the exhibition hall in the complex. Dilli Haat INA is open 10:30 to 22:00, seven days a week."/>
+    </LinearLayout>
+</ScrollView>

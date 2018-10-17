@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/puranaquila"
+            android:background="@color/primary_dark_color"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:background="#F5F5F5"
+            android:padding="10dp"
+            android:text="The Purana Quila (Old Fort) is a very good example of Mughal military architecture.Built by Pandavas, renovated by Humayun, with later modifications by Sher Shah Suri, the Purana Quila is a monument of bold design, which is strong, straight forward, and every inch a fortress. It is different from the well-planned, carefully decorated, and palatial forts of the later Mughal rulers. Purana Quila is also different from the later forts of the Mughals, as it does not have a complex of palaces, administrative, and recreational buildings as is generally found in the forts built later on"
+            />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Delhi Tourism</string>
+    <string name="title_activity_museums">MuseumsActivity</string>
+    <string name="title_activity_india_gate">IndiaGateActivity</string>
+    <string name="title_activity_khan_market">KhanMarketActivity</string>
+</resources>

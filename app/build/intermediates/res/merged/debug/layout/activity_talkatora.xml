@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.delhitourism.IndiaGateActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="292dp"
+            android:src="@drawable/talkarotagardens"
+            android:background="@color/primary_dark_color"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="21dp"
+            android:padding="10dp"
+            android:text="lt is a Mughal-era Garden situated on the Mother Teresa Crescent (previously Willingdon Crescent) in New Delhi. In ancient times, it used to be a tank and a Swimming pool. The Marathas defeated the Mughals in the Battle of Delhi (1737) at this place. The garden is now more famous for the Talkatora Stadium. It attracts a large number of tourists.The Talkatora Stadium close to it, is also named after it. A tal (tank) situated at the west side of the garden, is surrounded by hilly ground (part of the Delhi ridge) forms a katora, bowl-shaped natural depression, which gives the place its name."/>
+    </LinearLayout>
+</ScrollView>

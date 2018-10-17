@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.delhitourism.PlacesOfWorshipActivity">
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:layout_width="match_parent"
+        android:text="Akshardham Temple"
+        android:layout_height="130dp"
+        android:layout_weight="1"
+        android:onClick="akshardhamtemple"
+
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:text="Jama Masjid"
+
+        android:layout_weight="1"
+        android:onClick="jamamasjid"
+
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:layout_height="130dp"
+        android:layout_width="match_parent"
+        android:text="Lotus Temple"
+        android:layout_weight="1"
+        android:onClick="lotustemple"
+
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:layout_width="match_parent"
+        android:text="Gurudwara Bangla Sahib"
+        android:layout_height="130dp"
+        android:layout_weight="1"
+        android:onClick="banglasahib"
+
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"/>
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:layout_width="match_parent"
+        android:text="St. James Church"
+        android:layout_height="130dp"
+        android:onClick="jameschurch"
+        android:layout_weight="1"
+
+        />
+</LinearLayout>
+</ScrollView>
